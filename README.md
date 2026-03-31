@@ -1,24 +1,24 @@
-# Hotel Management System
+# Restaurant Management System
 
 ## 📌 Overview
-This project is a hotel management system designed to manage bookings, rooms, and customer information efficiently.
+
+This project is a web-based restaurant management system designed to manage orders, customers, and restaurant operations efficiently.
 
 ## 🚀 Features
-- Room booking system
-- Customer management
-- Admin dashboard
-- Responsive design
+
+* Order management system
+* Menu display
+* Customer management
+* Admin dashboard
+* Responsive design
 
 ## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript / React
-- Bootstrap
 
-## 📱 Future Improvements
-- Payment integration
-- AI-based recommendations
-- Mobile app version
+* HTML
+* CSS
+* JavaScript / React
+* Bootstrap
 
 ## 👩‍💻 Author
+
 Juliana Sarya
